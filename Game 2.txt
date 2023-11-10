@@ -1,5 +1,5 @@
-Game Name
-Game Description
+Movie Quest!
+Program will guess the Movie you are thinking of!
 400 Is it English? (y/n)
 180 Is it Animated? (y/n)
 160 Does it involve Animals? (y/n)
